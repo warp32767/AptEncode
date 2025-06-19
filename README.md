@@ -30,3 +30,16 @@
 ```bash
 g++ main.cpp WavAptEncoder.cpp -o AptEncode
 ```
+
+---
+
+## 🔎 Usage
+
+### Single image mode (same image for both channels)
+```bash
+AptEncode <input> <output.wav>
+```
+
+### Dual image mode (separate images for each channel)
+```bash
+AptEncode <input_a> <input_b> <output.wav>
