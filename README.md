@@ -2,7 +2,7 @@
 
 **AptEncode** is a cross-platform command-line tool that converts standard images into **NOAA APT-format WAV audio files**, simulating the analog signal used by real weather satellites. It works on **Linux, Windows and macOS**, and supports a wide range of image formats out of the box.
 
-![APT dual image mode Sample](placeholder)
+![APT dual image mode Sample](https://raw.githubusercontent.com/warp32767/AptEncode/refs/heads/main/Samples/raw_sync.png)
 
 ---
 
