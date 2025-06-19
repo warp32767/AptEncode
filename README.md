@@ -11,7 +11,7 @@
 - 🖼️ Accepts **JPEG, PNG, BMP, and other standard formats**
 - 📏 **Automatically scales** input images to proper width and handles images with different resolutions 
 - 🎧 Outputs **WAV files compatible with all APT decoders**
-- 🛠️ Works on **Linux, Windows, and macOS**
+- 🛠️ Works on **Linux, Windows and macOS**
 
 ---
 
