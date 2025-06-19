@@ -9,7 +9,7 @@
 ## 🌟 Features
 
 - 🖼️ Accepts **JPEG, PNG, BMP, and other standard formats**
-- 📏 **Automatically scales** images to NOAA APT spec (909 pixels wide)
+- 📏 **Automatically scales** input images to proper width and handles images with different resolutions 
 - 🎧 Outputs **WAV files compatible with all APT decoders**
 - 🛠️ Works on **Linux, Windows, and macOS**
 
